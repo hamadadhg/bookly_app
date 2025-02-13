@@ -1,3 +1,4 @@
+/*
 import 'package:bookly_app/core/utils/styles/style_to_text.dart';
 import 'package:bookly_app/features/mvvm/home/presentation/views/widget/custom_app_bar_home_view.dart';
 import 'package:bookly_app/features/mvvm/home/presentation/views/widget/custom_horizontal_carousel_slider.dart';
@@ -41,3 +42,4 @@ class CustomTextsIconImageSection extends StatelessWidget {
     );
   }
 }
+*/

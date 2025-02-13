@@ -1,3 +1,4 @@
+/*
 import 'package:equatable/equatable.dart';
 
 class RetailPrice extends Equatable {
@@ -14,3 +15,4 @@ class RetailPrice extends Equatable {
   @override
   List<Object?> get props => [amount];
 }
+*/

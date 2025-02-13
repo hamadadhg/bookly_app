@@ -1,3 +1,4 @@
+/*
 import 'package:bookly_app/core/models/book_model/book_model.dart';
 import 'package:bookly_app/features/mvvm/home/presentation/views/widget/custom_buy_book.dart';
 import 'package:bookly_app/features/mvvm/home/presentation/views/widget/custom_details_book_section.dart';
@@ -44,3 +45,4 @@ class CustomBookDetailsViewBody extends StatelessWidget {
     );
   }
 }
+*/

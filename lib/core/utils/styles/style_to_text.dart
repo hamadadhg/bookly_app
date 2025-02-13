@@ -1,3 +1,4 @@
+/*
 import 'package:bookly_app/core/utils/constant/constant_value_of_type_string.dart';
 import 'package:flutter/material.dart';
 
@@ -22,3 +23,4 @@ class StyleToText {
     fontWeight: FontWeight.normal,
   );
 }
+*/

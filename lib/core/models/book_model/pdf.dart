@@ -1,3 +1,4 @@
+/*
 import 'package:equatable/equatable.dart';
 
 class Pdf extends Equatable {
@@ -19,3 +20,4 @@ class Pdf extends Equatable {
   @override
   List<Object?> get props => [isAvailable, acsTokenLink];
 }
+*/

@@ -1,3 +1,4 @@
+/*
 import 'package:bookly_app/core/utils/assets/image_asset.dart';
 import 'package:flutter/material.dart';
 
@@ -22,3 +23,4 @@ class CustomImageAnimationSection extends StatelessWidget {
     );
   }
 }
+*/

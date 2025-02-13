@@ -1,3 +1,4 @@
+/*
 import 'package:bookly_app/core/utils/calsses/app_router.dart';
 import 'package:bookly_app/core/utils/dependency_integration/service_locator.dart';
 import 'package:bookly_app/features/mvvm/home/presentation/managers/cubits/theme_color_cubit/theme_color_cubit.dart';
@@ -10,7 +11,7 @@ void main() {
   runApp(
     DevicePreview(
       //DevicePreview to test on your app on many devices and many different screen sizes
-      enabled: true,
+      enabled: false,
 //enable you to test your app on different devices(so it's make DevicePreview work), if the value was false so the DevicePreview doesn't work
 //but when you instal release app on your phone you should give it false
       devices: Devices.all,
@@ -45,3 +46,4 @@ class BooklyApp extends StatelessWidget {
     );
   }
 }
+*/

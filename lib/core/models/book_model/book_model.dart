@@ -1,3 +1,4 @@
+/*
 import 'package:equatable/equatable.dart';
 
 import 'access_info.dart';
@@ -70,3 +71,4 @@ class BookModel extends Equatable {
     ];
   }
 }
+*/

@@ -1,3 +1,4 @@
+/*
 import 'package:equatable/equatable.dart';
 
 class IndustryIdentifier extends Equatable {
@@ -21,3 +22,4 @@ class IndustryIdentifier extends Equatable {
   @override
   List<Object?> get props => [type, identifier];
 }
+*/

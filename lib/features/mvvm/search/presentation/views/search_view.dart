@@ -1,3 +1,4 @@
+/*
 import 'package:bookly_app/features/mvvm/search/presentation/views/widgets/custom_search_view_body.dart';
 import 'package:flutter/material.dart';
 
@@ -13,3 +14,4 @@ class SearchView extends StatelessWidget {
     );
   }
 }
+*/

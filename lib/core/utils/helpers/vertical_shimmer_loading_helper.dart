@@ -1,3 +1,4 @@
+/*
 import 'package:bookly_app/features/mvvm/search/presentation/views/widgets/custom_image_shimmer.dart';
 import 'package:bookly_app/features/mvvm/search/presentation/views/widgets/custom_text_shimmer.dart';
 import 'package:flutter/material.dart';
@@ -16,3 +17,4 @@ Widget verticalShimmerLoadingHelper({required Size size}) {
     ],
   );
 }
+*/

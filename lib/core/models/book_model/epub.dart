@@ -1,3 +1,4 @@
+/*
 import 'package:equatable/equatable.dart';
 
 class Epub extends Equatable {
@@ -16,3 +17,4 @@ class Epub extends Equatable {
   @override
   List<Object?> get props => [isAvailable];
 }
+*/

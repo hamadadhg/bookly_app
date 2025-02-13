@@ -1,3 +1,4 @@
+/*
 import 'package:bookly_app/core/models/book_model/book_model.dart';
 import 'package:bookly_app/core/utils/helpers/get_paid_text_helper.dart';
 import 'package:bookly_app/core/utils/styles/style_to_text.dart';
@@ -70,3 +71,4 @@ class CustomTextsBooksSection extends StatelessWidget {
     );
   }
 }
+*/

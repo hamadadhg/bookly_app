@@ -1,3 +1,4 @@
+/*
 import 'package:bookly_app/core/utils/components/icon_button_component.dart';
 import 'package:bookly_app/core/utils/helpers/back_router_old_view_helper.dart';
 import 'package:bookly_app/core/utils/styles/style_to_colors.dart';
@@ -48,3 +49,4 @@ class CustomAppBarBookDetailsView extends StatelessWidget {
     );
   }
 }
+*/

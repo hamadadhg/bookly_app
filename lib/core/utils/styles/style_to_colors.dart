@@ -1,3 +1,4 @@
+/*
 import 'package:flutter/material.dart';
 
 abstract class StyleToColors {
@@ -19,3 +20,4 @@ abstract class StyleToColors {
   static Color grey700Color = Colors.grey[700]!;
   static Color grey400Color = Colors.grey[400]!;
 }
+*/

@@ -1,3 +1,4 @@
+/*
 import 'package:bookly_app/features/mvvm/search/presentation/views/widgets/custom_image_shimmer.dart';
 import 'package:flutter/material.dart';
 
@@ -34,3 +35,4 @@ class CustomTextShimmer extends StatelessWidget {
     );
   }
 }
+*/

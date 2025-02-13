@@ -1,3 +1,4 @@
+/*
 import 'package:equatable/equatable.dart';
 
 class ReadingModes extends Equatable {
@@ -19,3 +20,4 @@ class ReadingModes extends Equatable {
   @override
   List<Object?> get props => [text, image];
 }
+*/

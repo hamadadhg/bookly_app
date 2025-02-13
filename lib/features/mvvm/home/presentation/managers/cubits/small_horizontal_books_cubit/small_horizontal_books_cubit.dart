@@ -1,3 +1,4 @@
+/*
 import 'package:bookly_app/core/errors/failures.dart';
 import 'package:bookly_app/core/models/book_model/book_model.dart';
 import 'package:bookly_app/features/mvvm/home/data/repositories/home_repository_implementation.dart';
@@ -35,3 +36,4 @@ class SmallHorizontalBooksCubit extends Cubit<SmallHorizontalBooksState> {
     );
   }
 }
+*/

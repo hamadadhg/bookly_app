@@ -1,3 +1,4 @@
+/*
 import 'package:dio/dio.dart';
 
 abstract class Failures {
@@ -86,3 +87,4 @@ class ServerFailure extends Failures {
     }
   }
 }
+*/

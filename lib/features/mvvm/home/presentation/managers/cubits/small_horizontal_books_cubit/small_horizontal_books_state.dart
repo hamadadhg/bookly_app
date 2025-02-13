@@ -1,3 +1,4 @@
+/*
 import 'package:bookly_app/core/models/book_model/book_model.dart';
 
 abstract class SmallHorizontalBooksState {}
@@ -19,3 +20,4 @@ class SmallHorizontalBooksSuccessState extends SmallHorizontalBooksState {
     required this.booksSmallHorizontalState,
   });
 }
+*/

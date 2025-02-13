@@ -1,3 +1,4 @@
+/*
 import 'package:bookly_app/features/mvvm/home/presentation/views/widget/custom_image.dart';
 import 'package:flutter/material.dart';
 
@@ -18,3 +19,4 @@ class CustomImageSection extends StatelessWidget {
     );
   }
 }
+*/

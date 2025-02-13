@@ -1,3 +1,4 @@
+/*
 import 'package:bookly_app/core/utils/styles/style_to_text.dart';
 import 'package:flutter/material.dart';
 
@@ -44,3 +45,4 @@ class CustomTextButton extends StatelessWidget {
     );
   }
 }
+*/

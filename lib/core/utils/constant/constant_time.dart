@@ -1,3 +1,8 @@
+/*
+const Duration k300Milliseconds = Duration(
+  milliseconds: 300,
+);
+
 const Duration kThreeSeconds = Duration(
   seconds: 3,
 );
@@ -9,3 +14,4 @@ const Duration kFourSeconds = Duration(
 const Duration kSixSeconds = Duration(
   seconds: 6,
 );
+*/

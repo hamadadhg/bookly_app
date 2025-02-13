@@ -1,3 +1,4 @@
+/*
 import 'package:bookly_app/features/mvvm/search/presentation/views/widgets/custom_sliver_list_section.dart';
 import 'package:bookly_app/features/mvvm/search/presentation/views/widgets/custom_text_field_section.dart';
 import 'package:flutter/material.dart';
@@ -29,3 +30,4 @@ class CustomSearchViewBody extends StatelessWidget {
     );
   }
 }
+*/

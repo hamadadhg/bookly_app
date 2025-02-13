@@ -1,3 +1,4 @@
+/*
 import 'package:bookly_app/core/utils/constant/constant_time.dart';
 import 'package:bookly_app/core/utils/constant/constant_value_of_type_string.dart';
 import 'package:bookly_app/core/utils/helpers/go_router_new_view_helper.dart';
@@ -167,3 +168,4 @@ class _CustomAnimationsViewBodyState extends State<CustomAnimationsViewBody>
     slideBuyAnimationController.forward();
   }
 }
+*/

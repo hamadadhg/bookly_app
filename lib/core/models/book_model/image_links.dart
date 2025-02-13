@@ -1,3 +1,4 @@
+/*
 import 'package:equatable/equatable.dart';
 
 class ImageLinks extends Equatable {
@@ -19,3 +20,4 @@ class ImageLinks extends Equatable {
   @override
   List<Object?> get props => [smallThumbnail, thumbnail];
 }
+*/

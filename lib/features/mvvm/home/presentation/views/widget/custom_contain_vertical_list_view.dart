@@ -1,3 +1,4 @@
+/*
 import 'package:bookly_app/core/models/book_model/book_model.dart';
 import 'package:bookly_app/core/utils/styles/style_to_colors.dart';
 import 'package:bookly_app/features/mvvm/home/presentation/views/widget/custom_image_section.dart';
@@ -32,3 +33,4 @@ class CustomContainVerticalListView extends StatelessWidget {
     );
   }
 }
+*/

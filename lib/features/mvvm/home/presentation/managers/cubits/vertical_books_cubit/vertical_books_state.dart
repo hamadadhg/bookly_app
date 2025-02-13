@@ -1,3 +1,4 @@
+/*
 import 'package:bookly_app/core/models/book_model/book_model.dart';
 
 abstract class VerticalBooksState {}
@@ -19,3 +20,4 @@ class VerticalBooksSuccessState extends VerticalBooksState {
     required this.booksVerticalState,
   });
 }
+*/

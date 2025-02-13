@@ -1,3 +1,4 @@
+/*
 import 'package:bookly_app/core/models/book_model/book_model.dart';
 import 'package:flutter/material.dart';
 import 'package:go_router/go_router.dart';
@@ -11,3 +12,4 @@ void goRouterNewViewHelper(
     extra: bookModel,
   );
 }
+*/

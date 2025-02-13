@@ -1,3 +1,4 @@
+/*
 import 'package:bookly_app/core/models/book_model/book_model.dart';
 import 'package:bookly_app/core/utils/constant/constant_value_of_type_string.dart';
 import 'package:bookly_app/core/utils/dependency_integration/service_locator.dart';
@@ -66,3 +67,4 @@ abstract class AppRouter {
     ],
   );
 }
+*/

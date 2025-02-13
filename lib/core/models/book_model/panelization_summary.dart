@@ -1,3 +1,4 @@
+/*
 import 'package:equatable/equatable.dart';
 
 class PanelizationSummary extends Equatable {
@@ -24,3 +25,4 @@ class PanelizationSummary extends Equatable {
   @override
   List<Object?> get props => [containsEpubBubbles, containsImageBubbles];
 }
+*/

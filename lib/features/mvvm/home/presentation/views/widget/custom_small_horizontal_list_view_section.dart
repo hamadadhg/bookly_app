@@ -1,3 +1,4 @@
+/*
 import 'package:bookly_app/core/utils/styles/style_to_text.dart';
 import 'package:bookly_app/features/mvvm/home/presentation/views/widget/custom_small_horizontal_list_view.dart';
 import 'package:flutter/material.dart';
@@ -30,3 +31,4 @@ class CustomSmallHorizontalListViewSection extends StatelessWidget {
     );
   }
 }
+*/

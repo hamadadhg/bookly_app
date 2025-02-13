@@ -1,3 +1,4 @@
+/*
 import 'package:bookly_app/features/mvvm/home/presentation/managers/cubits/carousel_slider_books_cubit/carousel_slider_books_cubit.dart';
 import 'package:bookly_app/features/mvvm/home/presentation/managers/cubits/vertical_books_cubit/vertical_books_cubit.dart';
 import 'package:bookly_app/features/mvvm/home/presentation/views/widget/custom_home_view_body.dart';
@@ -28,3 +29,4 @@ class _HomeViewState extends State<HomeView> {
     );
   }
 }
+*/

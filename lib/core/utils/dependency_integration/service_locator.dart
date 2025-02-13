@@ -1,3 +1,4 @@
+/*
 import 'package:bookly_app/core/services/api_services.dart';
 import 'package:bookly_app/features/mvvm/home/data/repositories/home_repository_implementation.dart';
 import 'package:bookly_app/features/mvvm/search/data/repositories/search_repository_implementation.dart';
@@ -22,3 +23,4 @@ void serviceLocator() {
     ),
   );
 }
+*/

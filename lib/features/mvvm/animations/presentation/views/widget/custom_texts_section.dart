@@ -1,3 +1,4 @@
+/*
 import 'package:bookly_app/features/mvvm/animations/presentation/views/widget/custom_text_for_book.dart';
 import 'package:flutter/material.dart';
 
@@ -36,3 +37,4 @@ class CustomTextsSection extends StatelessWidget {
     );
   }
 }
+*/

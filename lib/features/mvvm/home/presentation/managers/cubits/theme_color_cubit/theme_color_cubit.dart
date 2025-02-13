@@ -1,3 +1,4 @@
+/*
 import 'package:bookly_app/core/utils/styles/style_to_colors.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
@@ -23,3 +24,4 @@ class ThemeColorCubit extends Cubit<ThemeData> {
 //state.brightness check about what's the ThemeColorMode now, you can this because ThemeData consider a State
 //this method i will trigger in onPressed in IconButton so when you click the themeColorMode will change
 }
+*/

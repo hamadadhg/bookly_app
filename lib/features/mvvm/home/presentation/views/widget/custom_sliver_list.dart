@@ -1,3 +1,4 @@
+/*
 import 'package:bookly_app/core/utils/constant/constant_value_of_type_string.dart';
 import 'package:bookly_app/core/utils/helpers/go_router_new_view_helper.dart';
 import 'package:bookly_app/core/utils/helpers/vertical_shimmer_loading_helper.dart';
@@ -73,3 +74,4 @@ class CustomSliverList extends StatelessWidget {
     );
   }
 }
+*/

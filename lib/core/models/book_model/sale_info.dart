@@ -1,3 +1,4 @@
+/*
 import 'package:bookly_app/core/models/book_model/retail_price.dart';
 import 'package:equatable/equatable.dart';
 
@@ -36,3 +37,4 @@ class SaleInfo extends Equatable {
   List<Object?> get props =>
       [country, saleability, isEbook, buyLink, retailPrice];
 }
+*/

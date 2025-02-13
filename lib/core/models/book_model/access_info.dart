@@ -1,3 +1,4 @@
+/*
 import 'package:equatable/equatable.dart';
 
 import 'epub.dart';
@@ -74,3 +75,4 @@ class AccessInfo extends Equatable {
     ];
   }
 }
+*/

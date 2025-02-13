@@ -1,3 +1,4 @@
+/*
 import 'package:bookly_app/core/models/book_model/book_model.dart';
 
 String getPaidTextHelper({required BookModel bookModel}) {
@@ -5,3 +6,4 @@ String getPaidTextHelper({required BookModel bookModel}) {
       ? '${bookModel.saleInfo?.retailPrice?.amount}€'
       : 'Not For Sale';
 }
+*/

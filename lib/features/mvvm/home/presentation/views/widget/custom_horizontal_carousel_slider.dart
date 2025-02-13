@@ -1,3 +1,5 @@
+/*
+import 'package:bookly_app/core/utils/constant/constant_time.dart';
 import 'package:bookly_app/core/utils/constant/constant_value_of_type_string.dart';
 import 'package:bookly_app/core/utils/helpers/go_router_new_view_helper.dart';
 import 'package:bookly_app/core/utils/helpers/horizontal_shimmer_loading_helper.dart';
@@ -53,9 +55,7 @@ class _CustomHorizontalCarouselSliderState
                     index == selectedImageFromScrollSuccessState ? 1.0 : 0.75,
                 //the action you want(make the determine image from scroll look like closer) it's name scale
                 //this size 1.0 to determine image from scroll, this size 0.75 to undetermine image from scroll yet
-                duration: const Duration(
-                  milliseconds: 300,
-                ),
+                duration: k300Milliseconds,
                 //this duration(time to do scale action when you do scroll)
                 child: GestureDetector(
                   onTap: () {
@@ -96,9 +96,7 @@ class _CustomHorizontalCarouselSliderState
               return AnimatedScale(
                 scale:
                     index == selectedImageFromScrollLoadingState ? 1.0 : 0.75,
-                duration: const Duration(
-                  milliseconds: 300,
-                ),
+                duration: k300Milliseconds,
                 child: horizontalShimmerLoadingHelper(),
               );
             },
@@ -108,3 +106,4 @@ class _CustomHorizontalCarouselSliderState
     );
   }
 }
+*/
